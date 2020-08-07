@@ -6,6 +6,7 @@ body{
 /*start:header*/
 header{
 	background-color: #111;
+	background-color: grey;
 
 }
 header nav{
@@ -34,6 +35,7 @@ header nav ul li a{
 	background-color: #fff;
 	max-width: 1200px;
 	min-height: 200px;
+
 
 }
 .container h1{
